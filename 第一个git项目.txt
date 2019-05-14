@@ -1,1 +1,2 @@
-ÕâÊÇ¸üĞÂµÄÄÚÈİ. git push origin git@github.com:15112304365/mygitRemote.git 
+æ›´æ”¹äº†æ–‡ä»¶å†…å®¹. git push origin git@github.com:15112304365/mygitRemote.git 
+ç¬¬ä¸€ä¿®æ”¹å†…å®¹;
